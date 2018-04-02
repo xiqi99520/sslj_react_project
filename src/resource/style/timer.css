@@ -1,0 +1,101 @@
+.timer_title{    text-align: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    line-height: 4rem;
+    border-bottom: 1px solid #e5e5e5;
+    position: relative;}
+.timer_pic{    width: 2rem;
+    position: absolute;
+    right: 1.5rem;
+    top: 1rem;}
+.timer_ul{position: relative;
+    overflow: hidden;
+    margin: 0 1rem;}
+.timer_ul li{    position: relative;
+    border-bottom: 1px solid #e6e5e5;
+}
+.timer_ul li a{display: block;color:#000;    padding: 1rem 0;
+}
+.timer_ul .eq_state{    margin-right: 0; }
+.timer_left{}
+.timer_time{    font-size: 3rem;
+    margin-left: 0.5rem;
+    letter-spacing: 0.2rem;
+    font-family: Simhei;}
+.timer_msg{    font-size: 1.4rem;    margin-top: 0.3rem;
+    margin-left: 1rem;
+    color: #999999;
+    letter-spacing: 0.1rem;}
+.timer_opt{}
+.timer_times{}
+.ta_time{    position: initial;}
+.ta_time .grayLayer{display: none;}
+.ta_time .btnBar{display: none;}
+.ta_time .content{     position: absolute;    left: inherit;    height: 18rem;
+    top: 5rem;
+    max-width: 640px;}
+.ta_time .content .panel .wheel .selectContainer li{font-size: 1.5rem;}
+.ta_save{    color: #ff8a00;
+    position: absolute;
+    right: 1rem;
+    line-height: 4rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;}
+.ta_action{    position: relative;
+    margin-top: 20rem;
+    border-top: 0.6rem solid #f5f5f5;border-bottom: 0.6rem solid #f5f5f5;}
+.ta_action_word{    line-height: 6.8rem;
+    font-size: 1.6rem;
+    letter-spacing: 0.2rem;
+    margin-left: 1.5rem;}
+.ta_days{}
+.ta_repeat{    color: #888;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;}
+.ta_days_msg{}
+.ta_ul{    overflow: hidden;padding: 2px 0;
+    margin: 2rem 0.5rem;}
+.ta_ul li{    float: left;
+    width: 14%;
+    text-align: center;}
+.ta_ul li:nth-child(1){
+  margin-left:1%;
+}
+.ta_ul li span{    border: 1px solid #8ad6ce;
+    border-radius: 50%;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    line-height: 3rem;
+    color: #8ad6ce;}
+.ta_ul li .ta_on{background-color:#8ad6ce;color: #fff;}
+.remove_timer{    border: 1px solid #ff9c00;
+    margin: 6rem 1rem 2rem;
+    line-height: 3.2rem;
+    text-align: center;
+    color: #ff9c00;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    border-radius: 5px;}
+.during{    border-bottom: 5px solid #f1f1f1;
+    padding-bottom: 0.8rem;}
+.during_title{    color: #888;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;}
+.during_main{    overflow: hidden;
+    margin: 1.2rem 1rem 0;
+    border-top: 1px solid #ddd;}
+.during_left{    float: left;
+    width: 50%;
+    text-align: center;
+    border-right: 1px solid #ddd;}
+.during_time{    font-size: 2.5rem;
+    margin-top: 1.2rem;margin-bottom: 0.5rem;}
+.during_tip{    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    color: #333;}
+.during_right{float: right;width: 50%;text-align: center;}

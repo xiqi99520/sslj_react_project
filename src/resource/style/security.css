@@ -1,0 +1,54 @@
+.security_set{    text-align: right;}
+.security_set a{    display: inline-block;
+    padding: 1rem 1.2rem;}
+.security_set_pic{}
+.security_statu{    text-align: center;
+    margin-top: 2rem;}
+.security_statu img{    width: 50%;
+    max-width: 180px;}
+.se_class{     margin: 3rem 1rem 0;
+    overflow: hidden;}
+.se_class li{    float: left;
+    width: 33.33%;
+    text-align: center;}
+.se_class_pic{}
+.se_class_pic img{    width: 60%;
+    max-width: 90px;}
+.se_class_word{    font-size: 1.4rem;
+    margin-top: 0.5rem;
+    letter-spacing: 0.1rem;}
+.security_li{    margin-top: 2rem;}
+.security_li_title{    background-color: #f7f7f7;
+    font-size: 1.6rem;
+    line-height: 4rem;
+    letter-spacing: 0.1rem;
+    padding-left: 1.5rem;}
+.security_li_main{    position: relative;    border-top: 1px solid #f2f2f2;
+    padding: 2rem 1rem 2rem 6rem;}
+.security_li_pic{    position: absolute;
+    top: 2rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    object-fit: contain;
+    left: 1.5rem;}
+.security_li_right{}
+.security_li_name{    font-size: 1.6rem;
+    letter-spacing: 0.1rem;}
+.security_li_word{    font-size: 1.4rem;
+    color: #999;
+    margin-top: 0.4rem;
+    letter-spacing: 0.1rem;}
+.security_li_time{float: right;}
+.ss_ul{}
+.ss_ul li{}
+.ss_ul li a{    display: block;
+    border-bottom: 1px solid #f2f2f2;
+    margin-left: 1rem;
+    color: #333;
+    line-height: 6rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    overflow: hidden;}
+.ss_img{    float: right;
+    width: 1rem;
+    margin: 1.8rem 1.5rem 0 0;}

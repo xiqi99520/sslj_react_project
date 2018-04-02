@@ -1,0 +1,176 @@
+.aeq_ul{}
+.aeq_ul li{}
+.aeq_ul li a{    display: block;
+    color: #333;
+    font-size: 1.3rem;
+    text-align: left;
+    font-weight: normal;
+    border-bottom: 1px solid #f2f2f2;
+    line-height: 5.5rem;
+    overflow: hidden;}
+.aeq_pic{    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;}
+.aeq_to_icon{    float: right;
+    width: 0.9rem;
+    margin-top: 1.8rem;
+    margin-right: 1.2rem;}
+.aed_pic{    text-align: center;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #f2f2f2;}
+.aed_pic img{}
+.aed_msg{font-size: 1.5rem;  
+    padding: 1rem 2rem;
+    line-height: 1.8rem;
+    letter-spacing: 1px;}
+.aed_msg p{margin-bottom:0.4rem;}
+.aed_other{text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;}
+.aed_other a{color: #ff9c00;}
+.aed_other em{    display: inline-block;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 1.8rem;
+    text-align: center;    margin-left: 0.5rem;
+    height: 1.8rem;
+    line-height: 1.8rem;}
+.aed_sure{    position: fixed;
+    bottom: 7.5rem;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 0.1rem;
+    color: #333;}
+.aed_sure_icon{    width: 1.5rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;}
+.aed_submit{    background-color: #ff9c00;opacity:0.5;
+    position: fixed;
+    width: 90%;
+    line-height: 4rem;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+    left: 5%;
+    bottom: 2rem;}
+.aed_true{opacity:1;}
+.reset_msg{    text-align: center;
+    color: #666;
+    margin: 6rem 4rem 0;
+    line-height: 1.8rem;
+    letter-spacing: 0.1rem;}
+.robot_msg{}
+.robot_tile{    text-align: center;
+    letter-spacing: 0.1rem;
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;}
+.robot_li{    margin: 0 1rem;
+    position: relative;
+    padding-left: 7rem;
+    line-height: 4rem;
+    margin-top: 1rem;}
+.robot_li span{    position: absolute;
+    left: 0;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;}
+.robot_li input{    height: 4rem;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #eee;}
+.qr_main{    margin-top: 6rem;  margin-left: 3rem;}
+.qr_file{}
+.report_file {
+    display: block;
+    position: relative;
+    width: 12rem;
+    height:3.5rem;
+    overflow: hidden;
+    border: 1px solid #428bca;
+    background: none repeat scroll 0 0 #428bca;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    float: left;
+    margin-right:5px;
+  	margin-bottom: 1rem;
+}
+.report_file span {
+    cursor: pointer;
+    display: block;
+    line-height: 3.5rem;
+}
+.file_prew {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 12rem;
+    height: 3.5rem;
+    font-size: 100px; 
+    opacity: 0; 
+    filter: alpha(opacity=0);
+}
+.qr_text{height: 3.5rem;border:1px solid #f1f1f1;    float: left;}
+.robot_box{    position: fixed;
+    background-color: rgba(255,255,255,1);
+    z-index: 3;
+    top: 50%;
+    margin-top: -15rem;
+    left: 50%;
+    width: 80%;
+    margin-left: -40%;
+    text-align: center;
+    padding: 3rem 0;
+    border-radius: 10px;}
+.robot_qrcode_tips{margin: 1.5rem 1rem 0;
+    font-size: 1.4rem;}
+.add_eq_box{width: 85%;
+    padding: 1.2rem 0;
+    background-color: #fff;
+    z-index: 888;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 50%;
+    margin-top: -19rem;
+    border-radius: 1rem;
+    color: #333;
+    letter-spacing: 0.1rem;}
+.add_eq_title{    text-align: center;
+    font-size: 1.3rem;}
+.add_eq_ul{    border-top: 1px solid #f2f2f2;    height: 23rem;overflow-y: auto;
+    margin-top: 1.5rem;}
+.add_eq_ul li{    border-bottom: 1px solid #f2f2f2;
+    font-size: 1.4rem;
+    line-height: 6rem;}
+.add_eq_pic{    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    margin-left: 2rem;
+    margin-right: 1.5rem;
+    vertical-align: middle;}
+.add_eq_loading{    text-align: center;
+    margin-top: 1rem;
+    line-height: 1.5rem;}
+.addEq_loading{    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: cover;
+    margin-right: 0.7rem;
+    vertical-align: middle;
+    margin-top: -0.1rem;}
+.end_add{    background-color: #ff9c00;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem 2rem 0.5rem;
+    line-height: 4rem;
+    border-radius: 5px;}
+.add_eq_new{    float: right;
+    margin-right: 2rem;
+    color: #f00;}

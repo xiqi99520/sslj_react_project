@@ -1,0 +1,81 @@
+@media only screen and (min-width:350px) {
+  .login{min-height:62rem !important;}
+}
+.login{background-image: url("../images/login/login_bg.jpg");
+width: 100%;
+height: 100%;
+background-position: center center;
+position: relative;
+background-attachment: fixed;
+max-width: 640px;
+min-height: 50rem;
+overflow: hidden;
+background-repeat: no-repeat;}
+.login_wrapper{    width: 80%;
+    position: absolute;
+    top: 50%;
+    margin-left: -40%;
+    margin-top: -12rem;
+    left: 50%;}
+.login_name{     border-bottom: 1px solid #cbcbc7;
+    position: relative;
+    padding-left: 5.2rem;
+    margin-bottom: 2.5rem;}
+.login_icon{    position: absolute;
+    left: 2.0rem;
+    top: 1rem;
+    height: 2rem;
+    width: 2rem;
+    object-fit: contain;
+    object-position: center center;}
+.login_input{    border: 0;outline: none;
+    background: none;
+    color: #fff;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+    box-sizing: border-box;
+    width: 100%;
+    height: 4rem;}
+.login_input::-webkit-input-placeholder{color:#fff;}
+.login_password{    border-bottom: 1px solid #cbcbc7;
+    position: relative;
+    padding-left: 5rem;
+    margin-bottom: 1.5rem;}
+.login_submit{    background-color: #ff9c00;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 1rem;
+    line-height: 4rem;
+    font-size: 1.6rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;}
+.login_other{    margin: 3rem 2rem 0;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+    color: #fff;}
+.login_other a{    color: #fff;}
+.to_register{}
+.login_separate{    margin: 0 0.5rem;}
+.to_forget{}
+.to_codeLogin{    float: right;}
+.code_part{position: relative;padding-right: 10rem;}
+.code_left{ border-bottom: 1px solid #cbcbc7;position: relative;
+padding-left: 5.2rem;
+margin-bottom: 2.5rem;}
+.get_code{    position: absolute;    top: 0;border-bottom: 1px solid #cbcbc7;
+    width: 9rem;
+    right: 0;
+    text-align: center;
+    color: #ffba00;
+    letter-spacing: 0.1rem;
+    font-size: 1.3rem;
+    line-height: 4rem;}
+.register_submit{    background-color: #ff9c00;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 0.3rem;
+    line-height: 4rem;
+    font-size: 1.6rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;}
+.register_wrapper{    margin-top: -15rem;}
